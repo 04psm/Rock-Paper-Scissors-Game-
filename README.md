@@ -8,6 +8,7 @@ in which each player simultaneously forms one of three shapes with an outstretch
 These shapes are "rock", "paper", and "scissors".
 
 
+
 A player who decides to play rock will beat another player who has chosen scissors ("rock crushes scissors" or "breaks scissors" or sometimes "blunts scissors"), 
 
 but will lose to one who has played paper ("paper covers rock");
